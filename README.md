@@ -1,10 +1,4 @@
-
-
-
-
-# Converting Live Speech to Text & Converting Text to Speech 
-
-> This respiratory is to Convert Speech to Text & Text to Speech
-> [IBM WATSON](https://cloud.ibm.com) and [Python](https://www.python.org/downloads/) language.
-
-
+# STT_TTS
+This project use the IBM waston and python language to convert speech to text and text to speech. 
+The output text from the speech will be saved as sst.txt file
+The output speech from the text will be saved as winston.mp3 file
