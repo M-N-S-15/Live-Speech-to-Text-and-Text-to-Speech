@@ -10,7 +10,7 @@
 ## Created Using:
 
 - Python language
-- -Juptyer
+- Juptyer
 - Speech to text IBM WATSON
 - Text to Speech IBM WATSON
 
